@@ -1,2 +1,2 @@
-# P-20-GCSO
-I made GCSO, which tests the speed of a car. Here's my code.
+# p5.play-boilerplate
+Boiler plate for p5.play
